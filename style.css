@@ -33,4 +33,9 @@
 }
 .links a:hover{
     color: gold;
+    text-decoration-line: underline;
+
+}
+.customer{
+    height: 90px;
 }
